@@ -1199,22 +1199,6 @@ html {
   width: 1rem;
 }
 
-.w-0\.5 {
-  width: 0.125rem;
-}
-
-.w-0 {
-  width: 0px;
-}
-
-.w-1 {
-  width: 0.25rem;
-}
-
-.w-\[50\%\] {
-  width: 50%;
-}
-
 .max-w-screen-xl {
   max-width: 1280px;
 }
